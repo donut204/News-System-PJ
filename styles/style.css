@@ -1,0 +1,27 @@
+.post-content{
+    margin-top: 0.5rem !important;
+}
+.post-text{
+    font-size: 1rem;
+    line-height: 1.7rem;
+    margin: 1rem 0;
+    text-align: justify;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+.footer p{
+    font-size: 0.938rem;
+}
+.social{
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+.text-justify {
+    text-align: justify;
+}
+
